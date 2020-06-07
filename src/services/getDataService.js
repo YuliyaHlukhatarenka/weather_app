@@ -1,4 +1,4 @@
-const URL = "http://api.openweathermap.org/data/2.5/weather";
+const URL = "https://api.openweathermap.org/data/2.5/weather";
 const APIKey = '8bb6d100086c829397846cea6c9c8004'
 
 class DataService {
